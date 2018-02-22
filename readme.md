@@ -6,5 +6,7 @@ Drill 1 (centralized workflow)
 4. Tyler created a new CSS stylesheet and linked to it in about.html
 5. Malcolm created a new HTML file and added a link to it in another HTML file.
 6. Tyler removed a file.
-7. Malcolm created a new stylesheet and linked to in index.html
-8. Tyler added a recipe using lists to index.html
+7. Malcolm created a new stylesheet and linked to in index.html.
+8. Tyler added a recipe using lists to index.html.
+9. Wrote a paragraph in index.html about burritos.
+10. Tyler created an array of objects, each with a name and age.

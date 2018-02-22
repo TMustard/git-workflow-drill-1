@@ -9,3 +9,14 @@ function getSum(array) {
 }
 
 getSum(arr);
+
+var newArr = [
+  {
+    name: "M. Bison",
+    age: 2
+  },
+  {
+    name: "Chun Li",
+    age: "26"
+  }
+];
